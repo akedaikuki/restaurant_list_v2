@@ -2,10 +2,13 @@
 此份作業是 Alphacamp 學期 2-3 A1 我的餐廳清單 
 
 ## 網站功能
-- 列出目前收藏的餐廳清單
-- 點擊瀏覽詳細資訊
-- 點擊餐廳地址連接到 Google 地圖
-- 關鍵字搜尋餐廳
+- 查看所有餐廳
+- 瀏覽餐廳的詳細資訊
+- 連結餐廳的地址到 Google 地圖
+- 搜尋特定餐廳
+- 新增餐廳
+- 編輯餐廳
+- 刪除餐廳
 
 ### 專案開發環境
 - node.js 環境
@@ -25,4 +28,6 @@
 - Node.js v14.16.0
 - Express 4.16.4
 - Express-Handlebars @3.0.0
-- Bootstrap v5.1
+- Bootstrap v5.3.0
+- MongoDB
+- mongoose 5.9.7
