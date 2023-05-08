@@ -22,7 +22,7 @@
 - Step4. 安裝 nodemon (如果已有可跳過)  npm install -g nodemon
 - Step5. 使用 MongoDB cloud 獲得你的 connection string  
 - Step6. 在專案內創造一個 .env 檔案，並在其輸入你的 MongoDB connection string，
--        並更改你 MongoDB 的 `username`、`password`、`database name`  可參閱 
+         並更改你 MongoDB 的 `username`、`password`、`database name`  可參閱 .envexample
 - Step4. 安裝完畢後 npm run start
 - Step5. 確認訊息是否如下 Express is listening on localhost:3000
 - Step6. 瀏覽器輸入 http://localhost:3000
