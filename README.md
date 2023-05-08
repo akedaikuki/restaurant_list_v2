@@ -24,10 +24,10 @@
 - Step6. 在專案內創造一個 .env 檔案，並在其輸入你的 MongoDB connection string，
          <br />並更改你 MongoDB 的 `username`、`password`、`database name`  可參閱 .envexample
 - Step7. 產生種子資料  npm run seed      
-- Step4. 啟動伺服器 (這會使用 nodemon 啟動專案)  npm run dev
-- Step5. 確認訊息是否如下 Express is listening on localhost:3000 mongodb connected!
-- Step6. 瀏覽器輸入 http://localhost:3000
-- Step7. 如欲暫停伺服器，請切換至終端機並且ctrl+c
+- Step8. 啟動伺服器 (這會使用 nodemon 啟動專案)  npm run dev
+- Step9. 確認訊息是否如下 Express is listening on localhost:3000 mongodb connected!
+- Step10. 瀏覽器輸入 http://localhost:3000
+- Step11. 如欲暫停伺服器，請切換至終端機並且ctrl+c
 
 ##### 開發工具
 - Node.js v14.16.0
