@@ -16,14 +16,15 @@
 - express-handlebars 樣板引擎
 
 #### 操作
-- Step1. 確認安裝 node.js 與 npm
-- Step2. clone
+- Step1. 確認安裝  node.js 與 npm
+- Step2. git clone 
 - Step3. 終端機輸入  npm install
 - Step4. 安裝 nodemon (如果已有可跳過)  npm install -g nodemon
 - Step5. 使用 MongoDB cloud 獲得你的 connection string  
 - Step6. 在專案內創造一個 .env 檔案，並在其輸入你的 MongoDB connection string，
          <br />並更改你 MongoDB 的 `username`、`password`、`database name`  可參閱 .envexample
-- Step4. 安裝完畢後 npm run start
+- Step7. 產生種子資料  npm run seed      
+- Step4. 安裝完畢後  npm run start
 - Step5. 確認訊息是否如下 Express is listening on localhost:3000
 - Step6. 瀏覽器輸入 http://localhost:3000
 - Step7. 如欲暫停伺服器，請切換至終端機並且ctrl+c
